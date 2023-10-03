@@ -22,7 +22,7 @@
 - протестированы требования заказчика;
 - составлены чек-листы и тест-кейсы;
 - оформлено описание дефектов;
-<br> ----  [Ссылка на тестовую документацию]([https://docs.google.com/spreadsheets/d/1kSpT4DsbgK67Pid7oYqRDZQFS2wJ-4GFJcjjbxrzsVo/edit?usp=drive_link](https://docs.google.com/spreadsheets/d/1Jff-w1KueB-9iQ5rE0c_Tqd_eLaBLjxM0UWmjskBsCE/edit?usp=sharing) ----
+<br> ----  [Ссылка на тестовую документацию](https://docs.google.com/spreadsheets/d/1Jff-w1KueB-9iQ5rE0c_Tqd_eLaBLjxM0UWmjskBsCE/edit?usp=sharing) ----
 - написано более 20 автотестов;
 - проведена проверка пользовательского интерфейса формы "Регистрация" и формы "Авторизация": 
 <br> - наличие необходимых компонентов: меню, кнопок, полей ввода и других элементов на странице;
