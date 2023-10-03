@@ -5,7 +5,7 @@ from pages.regis_page import RegistrationPage
 
 @pytest.fixture(scope='session')
 def browser():
-   driver = webdriver.Chrome(r'C:\Users\volod\PycharmProjects\Rostelekom\chromedriver.exe')
+   driver = webdriver.Chrome(r'C:\Users\yakutmt\PycharmProjects\Rostelekom\chromedriver.exe')
    driver.maximize_window()
    driver.implicitly_wait(5)
    yield driver
