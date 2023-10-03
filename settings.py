@@ -6,8 +6,8 @@ load_dotenv()
 base_url = "https://b2c.passport.rt.ru"
 
 # Личная информация зарегистрированного в системе пользователя
-valid_name = 'Елена'
-valid_lastname = 'Белова'
+valid_name = 'Сергей'
+valid_lastname = 'Новиков'
 valid_login = os.getenv('valid_login')
 valid_email = os.getenv('valid_email')
 valid_phone = os.getenv('valid_phone')
