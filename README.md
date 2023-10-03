@@ -60,8 +60,8 @@ _Инструменты:_
 -  chromedriver.exe - веб-драйвер
 
 Запуск тестов осуществляется с помощью команд из консоли: 
-- python -m pytest -v --driver Chrome --driver-path C:\Users\volod\PycharmProjects\Rostelekom\chromedriver.exe tests\test_Rostelekom_registration.py
-- python -m pytest -v --driver Chrome --driver-path C:\Users\volod\PycharmProjects\Rostelekom\chromedriver.exe tests\test_Rostelekom_authorization.py
+- python -m pytest -v --driver Chrome --driver-path C:\Users\текущий пользователь\PycharmProjects\Rostelekom\chromedriver.exe tests\test_Rostelekom_registration.py
+- python -m pytest -v --driver Chrome --driver-path C:\Users\текущий пользователь\PycharmProjects\Rostelekom\chromedriver.exe tests\test_Rostelekom_authorization.py
 
 
 
